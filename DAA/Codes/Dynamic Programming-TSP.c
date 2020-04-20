@@ -18,7 +18,7 @@ The cost list is:
 1 2 0 5
 3 1 5 0
 The Path is:
-1—>3—>2—>4—>1
+1â€”>3â€”>2â€”>4â€”>1
 Minimum cost is 7 */
 
 
